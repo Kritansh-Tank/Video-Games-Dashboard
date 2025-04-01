@@ -57,6 +57,40 @@ The dataset used for this analysis includes information on:
 
 - Power BI Desktop: Install Power BI Desktop to open and explore the dashboard.
 
+## Demo
+
+- **Home**
+
+![Home](https://drive.google.com/uc?id=11trJ00dnw5dT4_G0YhkqseHVDbChyTCU)
+
+
+- **Platforms**
+
+![Platforms](https://drive.google.com/uc?id=1JzYG9ncv9nK2ucPs6b78e8qYb5s7ipxb)
+
+
+- **Games Released by year**
+
+![Games Released by year](https://drive.google.com/uc?id=1EoYF7fQOUZLfTNmyzkYggA8AjQHxkAhY)
+
+
+- **Games Sold by year**
+
+![Games Sold by year](https://drive.google.com/uc?id=1iPL30wjnFHrW405YPLam_YwLVhZyddSs)
+
+
+- **Sold vs. Released**
+
+![Sold vs. Released](https://drive.google.com/uc?id=1Ybu9etLNyDZ5h1iWgEU52A8CiCqhFZgg)
+
+- **Visualization Techniques**
+
+![Visualization Techniques](https://drive.google.com/uc?id=11pVqxH8lXQg4Bvp_wSaNbubAioea1LgL)
+
+- **Sample Info**
+
+![Sample Info](https://drive.google.com/uc?id=1bnaU42u7Q6xc-4DPcbipxBSU_HTV3Pzj)
+
 ## License
 
 This project is licensed under the MIT License.
