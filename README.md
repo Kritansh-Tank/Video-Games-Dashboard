@@ -47,7 +47,7 @@ The dataset used for this analysis includes information on:
 
 ## Usage
 
-1. Open the Video Games Dashboard.pbix file in Power BI Desktop.
+1. Open the ```Video Games Dashboard.pbix``` file in Power BI Desktop.
 
 2. Explore different visualizations using the interactive dashboard.
 
