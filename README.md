@@ -26,3 +26,33 @@ This project is a part of our Project-Based Learning (PBL) for the college subje
 - **Sales Trends by Genre and Year:** Tracks sales performance across different genres over time.
 
 - **Publisher-wise Sales Analysis:** Breaks down sales by major video game publishers.
+
+## Data Sources
+
+The dataset used for this analysis includes information on:
+
+- Game titles
+
+- Platforms (e.g., PlayStation, Xbox, Nintendo, PC, etc.)
+
+- Genre classification
+
+- Sales figures (in millions)
+
+- Release years
+
+- Regional sales breakdown
+
+- Publishers
+
+## Usage
+
+1. Open the Video Games Dashboard.pbix file in Power BI Desktop.
+
+2. Explore different visualizations using the interactive dashboard.
+
+3. Customize or add new visualizations as per your requirements.
+
+## Prerequisites
+
+- Power BI Desktop: Install Power BI Desktop to open and explore the dashboard.
