@@ -56,3 +56,7 @@ The dataset used for this analysis includes information on:
 ## Prerequisites
 
 - Power BI Desktop: Install Power BI Desktop to open and explore the dashboard.
+
+## License
+
+This project is licensed under the MIT License.
