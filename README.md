@@ -6,10 +6,10 @@ This repository contains a Power BI dashboard that visualizes video game sales d
 
 This project is a part of our **Project-Based Learning (PBL)** for the college subject **Data Visualization and Reporting (DVR).** It was developed by a group of four students:
 
-1. [Kritansh Tank](https://github.com/Kritansh-Tank) - PRN: 2143110058, Roll No: 07 
-2. [Ujjwal Singh](https://github.com/Kritansh-Tank) - PRN: 2143110035, Roll No: 08
-3. [Mitali Chaudhari](https://github.com/Kritansh-Tank) - PRN: 2143110046, Roll No: 09
-4. [Rohan Singh](https://github.com/Kritansh-Tank) - PRN: 2143110044, Roll No: 10
+1. Kritansh Tank - PRN: 2143110058, Roll No: 07 
+2. Ujjwal Singh - PRN: 2143110035, Roll No: 08
+3. Mitali Chaudhari - PRN: 2143110046, Roll No: 09
+4. Rohan Singh - PRN: 2143110044, Roll No: 10
 
 ## Features
 
